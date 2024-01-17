@@ -1,2 +1,2 @@
-# Express_MongoDB_Rest_API_Tutorial
-This is express &amp; mongodb rest api tutorial for contact management app
+# Contact management app
+Express &amp; mongodb rest api contact management app
